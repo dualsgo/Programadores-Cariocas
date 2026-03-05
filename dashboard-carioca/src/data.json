@@ -1,0 +1,2006 @@
+[
+  {
+    "name": "Módulo 00 - Introdução ao curso",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 - Material de apoio - Por dentro da jornada.pdf",
+        "isDir": false,
+        "path": "Módulo 00 - Introdução ao curso/1 - Material de apoio - Por dentro da jornada.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Material de apoio - Por dentro do Módulo 1.pdf",
+        "isDir": false,
+        "path": "Módulo 00 - Introdução ao curso/2 - Material de apoio - Por dentro do Módulo 1.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "Aula - 01",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Roteiro de aula - Aula 01 - Seja protagonista da sua história!.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 01/Roteiro de aula - Aula 01 - Seja protagonista da sua história!.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Slides - Aula 01 - Seja protagonista da sua história!.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 01/Slides - Aula 01 - Seja protagonista da sua história!.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Aula - 02",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Roteiro de aula - Aula 02 - Planejamento é liberdade.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 02/Roteiro de aula - Aula 02 - Planejamento é liberdade.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Slides - Aula 02 - Planejamento é liberdade.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 02/Slides - Aula 02 - Planejamento é liberdade.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Aula - 03",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Roteiro de aula - Aula 03 - Hora da decisão.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 03/Roteiro de aula - Aula 03 - Hora da decisão.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Slides - Aula 03 - Hora da decisão.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 03/Slides - Aula 03 - Hora da decisão.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Aula - 04",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Roteiro de aula - Aula 04 - Nada cai do céu.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 04/Roteiro de aula - Aula 04 - Nada cai do céu.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Slides - Aula 04 - Nada cai do céu.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 04/Slides - Aula 04 - Nada cai do céu.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Aula - 05",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Roteiro de aula - Aula 05 - Reprise.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 05/Roteiro de aula - Aula 05 - Reprise.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Slides - Aula 05 - Reprise.pdf",
+            "isDir": false,
+            "path": "Módulo 00 - Introdução ao curso/Aula - 05/Slides - Aula 05 - Reprise.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Módulo 01 - Introdução ao front end",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 - Material de apoio - Boas-vindas módulo 1.pdf",
+        "isDir": false,
+        "path": "Módulo 01 - Introdução ao front end/1 - Material de apoio - Boas-vindas módulo 1.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Material de apoio - Por dentro dos projetos_.pdf",
+        "isDir": false,
+        "path": "Módulo 01 - Introdução ao front end/2 - Material de apoio - Por dentro dos projetos_.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "3 - Proposta Projeto Individual.pdf",
+        "isDir": false,
+        "path": "Módulo 01 - Introdução ao front end/3 - Proposta Projeto Individual.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "4 - Proposta Projeto em grupo.pdf",
+        "isDir": false,
+        "path": "Módulo 01 - Introdução ao front end/4 - Proposta Projeto em grupo.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "5 - Material de apoio -  Formando Squads.pdf",
+        "isDir": false,
+        "path": "Módulo 01 - Introdução ao front end/5 - Material de apoio -  Formando Squads.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "E-books",
+        "isDir": true,
+        "children": [
+          {
+            "name": "1 - HTML & CSS - Estrutura-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 01 - Introdução ao front end/E-books/1 - HTML & CSS - Estrutura-combinado.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "2 - Introducao ao Javascript - Um simples passo para um humano-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 01 - Introdução ao front end/E-books/2 - Introducao ao Javascript - Um simples passo para um humano-combinado.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "3 - GIT & GITHUB - Um local remoto -combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 01 - Introdução ao front end/E-books/3 - GIT & GITHUB - Um local remoto -combinado.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Slides",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Aulas HARD",
+            "isDir": true,
+            "children": [
+              {
+                "name": "AULA - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 01 - Hipertexto ao Resgate.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 01/Roteiro de aula - Hard - Aula 01 - Hipertexto ao Resgate.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Aula 01 - Hipertexto ao resgate!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 01/Slides - Aula 01 - Hipertexto ao resgate!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 02 - Pensando dentro da caixa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 02/Roteiro de aula - Hard - Aula 02 - Pensando dentro da caixa.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 02 - Pensando dentro da caixa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 02/Slides - Hard - Aula 02 - Pensando dentro da caixa.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 03 - Pensando fora da caixa .pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 03/Roteiro de aula - Hard - Aula 03 - Pensando fora da caixa .pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Aula 03 - Pensando fora da caixa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 03/Slides - Aula 03 - Pensando fora da caixa.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 04 - No controle .pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 04/Roteiro de aula - Hard - Aula 04 - No controle .pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Aula 04 - No controle.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 04/Slides - Aula 04 - No controle.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 05 - Computando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 05/Roteiro de aula - Hard - Aula 05 - Computando.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Aula 05 - Computando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 05/Slides - Aula 05 - Computando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 06 - Passo a passo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 06/Roteiro de aula - Hard - Aula 06 - Passo a passo.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 06 - Passo a passo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 06/Slides - Hard - Aula 06 - Passo a passo.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 07 - Funciona.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 07/Roteiro de aula - Hard - Aula 07 - Funciona.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 07 - Funciona.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 07/Slides - Hard - Aula 07 - Funciona.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Exercitando a mente .pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 08/Roteiro de aula - Hard - Aula 08 - Exercitando a mente .pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 08 - Exercitando a mente.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 08/Slides - Hard - Aula 08 - Exercitando a mente.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 09 - De novo não!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 09/Roteiro de aula - Hard - Aula 09 - De novo não!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 09 - De novo não!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 09/Slides - Hard - Aula 09 - De novo não!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "AULA - 10",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 10 - Xii, venceu.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 10/Roteiro de aula - Hard - Aula 10 - Xii, venceu.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 10 - Xii, venceu!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/AULA - 10/Slides - Hard - Aula 10 - Xii, venceu!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Roteiro de aula - Hard - Aula 11 - Uma etapa vencida .pdf",
+                "isDir": false,
+                "path": "Módulo 01 - Introdução ao front end/Slides/Aulas HARD/Roteiro de aula - Hard - Aula 11 - Uma etapa vencida .pdf",
+                "ext": ".pdf"
+              }
+            ]
+          },
+          {
+            "name": "Aulas SOFT",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 01 - Abra a mente!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 01/Roteiro de aula - Soft - Aula 01 - Abra a mente!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 01 - Abra a mente!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 01/Slides - Soft - Aula 01 - Abra a mente!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 02 - Para onde você está indo_ .pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 02/Roteiro de aula - Soft - Aula 02 - Para onde você está indo_ .pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 02 - Para onde você está indo_.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 02/Slides - Soft - Aula 02 - Para onde você está indo_.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 03 - Não perca tempo .pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 03/Roteiro de aula - Soft - Aula 03 - Não perca tempo .pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 03 - Não perca tempo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 03/Slides - Soft - Aula 03 - Não perca tempo.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 04 - Vivendo e aprendendo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 04/Roteiro de aula - Soft - Aula 04 - Vivendo e aprendendo.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 04 - Vivendo e aprendendo!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 04/Slides - Soft - Aula 04 - Vivendo e aprendendo!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 05 - Pega a visão.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 05/Roteiro de aula - Soft - Aula 05 - Pega a visão.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 05 - Pega a visão.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 05/Slides - Soft - Aula 05 - Pega a visão.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft -  Aula 06 - Rumo ao objetivo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 06/Roteiro de aula - Soft -  Aula 06 - Rumo ao objetivo.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 06- Rumo ao objetivo!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 06/Slides - Soft - Aula 06- Rumo ao objetivo!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft- Aula 07 - Arrumando a vitrine.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 07/Roteiro de aula - Soft- Aula 07 - Arrumando a vitrine.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 07 - Arrumando a vitrine.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 07/Slides - Soft - Aula 07 - Arrumando a vitrine.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft -  Aula 08 - Uma etapa vencida.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 08/Roteiro de aula - Soft -  Aula 08 - Uma etapa vencida.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 08- Uma etapa vencida.pdf",
+                    "isDir": false,
+                    "path": "Módulo 01 - Introdução ao front end/Slides/Aulas SOFT/Aula - 08/Slides - Soft - Aula 08- Uma etapa vencida.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Módulo 02 - Orientação a objetos",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 - Boas-vindas módulo 2.pdf",
+        "isDir": false,
+        "path": "Módulo 02 - Orientação a objetos/1 - Boas-vindas módulo 2.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Proposta do Projeto Individual.pdf",
+        "isDir": false,
+        "path": "Módulo 02 - Orientação a objetos/2 - Proposta do Projeto Individual.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "3 - Proposta do Projeto em Grupo.pdf",
+        "isDir": false,
+        "path": "Módulo 02 - Orientação a objetos/3 - Proposta do Projeto em Grupo.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "4 - Explicação - Feedback 360º.pdf",
+        "isDir": false,
+        "path": "Módulo 02 - Orientação a objetos/4 - Explicação - Feedback 360º.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "5 - Momento de Aprendizagem em Pares.pdf",
+        "isDir": false,
+        "path": "Módulo 02 - Orientação a objetos/5 - Momento de Aprendizagem em Pares.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "E-books",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Manipulacao de DOM - Manipulando a natureza-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 02 - Orientação a objetos/E-books/Manipulacao de DOM - Manipulando a natureza-combinado.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Orientacao a objetos - Agrupamentos-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 02 - Orientação a objetos/E-books/Orientacao a objetos - Agrupamentos-combinado.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "Requisicoes Json (API) - Enviando Cartas-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 02 - Orientação a objetos/E-books/Requisicoes Json (API) - Enviando Cartas-combinado.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Slides",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Aulas HARD",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 01 - Conhecendo Eventos do DOM.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 01/Roteiro de aula - Hard - Aula 01 - Conhecendo Eventos do DOM.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 1 - Conhecendo os Eventos do DOM.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 01/Slides - Hard - Aula 1 - Conhecendo os Eventos do DOM.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 02 - Mudança de Paradigma.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 02/Roteiro de aula - Hard - Aula 02 - Mudança de Paradigma.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 02 - Mudança de Paradigma.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 02/Slides - Hard - Aula 02 - Mudança de Paradigma.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 03 - Acessando o Mundo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 03/Roteiro de aula - Hard - Aula 03 - Acessando o Mundo.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 03 - Acessando o Mundo.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 03/Slides - Hard - Aula 03 - Acessando o Mundo.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 04 - Cláss-ico.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 04/Roteiro de aula - Hard - Aula 04 - Cláss-ico.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 04 - Hard - Cláss-ico.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 04/Slides - Hard - Aula 04 - Hard - Cláss-ico.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 05 - Foi mal, errei!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 05/Roteiro de aula - Hard - Aula 05 - Foi mal, errei!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 05 - Foi mal, errei!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 05/Slides - Hard - Aula 05 - Foi mal, errei!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 06 - Que dia é hoje_.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 06/Roteiro de aula - Hard - Aula 06 - Que dia é hoje_.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 06 - Que dia é hoje_.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 06/Slides - Hard - Aula 06 - Que dia é hoje_.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 07 - Garfando.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 07/Roteiro de aula - Hard - Aula 07 - Garfando.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 07 - Garfando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 07/Slides - Hard - Aula 07 - Garfando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Aquela heranca.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 08/Roteiro de aula - Hard - Aula 08 - Aquela heranca.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 08 - Aquela herança.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 08/Slides - Hard - Aula 08 - Aquela herança.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Aquela herança.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 09/Roteiro de aula - Hard - Aula 08 - Aquela herança.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 09 - Vendo o mapa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 09/Roteiro de aula - Hard - Aula 09 - Vendo o mapa.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 09 - Vendo o mapa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 09/Slides - Hard - Aula 09 - Vendo o mapa.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 10",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Aquela herança.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 10/Roteiro de aula - Hard - Aula 08 - Aquela herança.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 10 - Dando uma filtrada.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 10/Roteiro de aula - Hard - Aula 10 - Dando uma filtrada.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 10 - Dando uma filtrada.pdf",
+                    "isDir": false,
+                    "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Aula - 10/Slides - Hard - Aula 10 - Dando uma filtrada.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Roteiro de aula - Hard - Aula 11 - No Palco.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas HARD/Roteiro de aula - Hard - Aula 11 - No Palco.pdf",
+                "ext": ".pdf"
+              }
+            ]
+          },
+          {
+            "name": "Aulas SOFT",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Roteiro de aula - Soft - Aula 01 - Bem vindos novamente!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 01 - Bem vindos novamente!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft - Aula 02 - Me adiciona aí!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 02 - Me adiciona aí!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft - Aula 03 - O que você está sentindo agora.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 03 - O que você está sentindo agora.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft - Aula 04 - Quem é você.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 04 - Quem é você.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft - Aula 05 - O que faz seus olhos brilharem.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 05 - O que faz seus olhos brilharem.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft - Aula 08 - Aquecendo os motores!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft - Aula 08 - Aquecendo os motores!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Roteiro de aula - Soft-  Aula 07 - Vamos testá-los.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Roteiro de aula - Soft-  Aula 07 - Vamos testá-los.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Aula 06 - Soft - Temos que calçar o sapato do outro!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Aula 06 - Soft - Temos que calçar o sapato do outro!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Aula 07 - Soft - Vamos testá-los!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Aula 07 - Soft - Vamos testá-los!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Aula 08 - Soft --- Aquecendo os motores!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Aula 08 - Soft --- Aquecendo os motores!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - SOFT - Aula 01 -  Bem vindos novamente!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - SOFT - Aula 01 -  Bem vindos novamente!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Soft - Aula 02 - Me adiciona ai!.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Soft - Aula 02 - Me adiciona ai!.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Soft - Aula 03 - O que você está sentindo agora.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Soft - Aula 03 - O que você está sentindo agora.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Soft - Aula 04 - Quem é você_.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Soft - Aula 04 - Quem é você_.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Soft - Aula 05 - O que faz seus olhos brilharem.pdf",
+                "isDir": false,
+                "path": "Módulo 02 - Orientação a objetos/Slides/Aulas SOFT/Slides - Soft - Aula 05 - O que faz seus olhos brilharem.pdf",
+                "ext": ".pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Módulo 03 - React",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 - Proposta Projeto Individual.pdf",
+        "isDir": false,
+        "path": "Módulo 03 - React/1 - Proposta Projeto Individual.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Proposta Projeto em Grupo.pdf",
+        "isDir": false,
+        "path": "Módulo 03 - React/2 - Proposta Projeto em Grupo.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "E-books",
+        "isDir": true,
+        "children": [
+          {
+            "name": "REACT - Reações.pdf",
+            "isDir": false,
+            "path": "Módulo 03 - React/E-books/REACT - Reações.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Slides",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Aulas HARD",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 01 - Colorindo a TV.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 01/Roteiro de aula - Hard - Aula 01 - Colorindo a TV.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 01 - Colorindo a TV.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 01/Slides - Hard - Aula 01 - Colorindo a TV.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard-  Aula 02 - Burocracia.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 02/Roteiro de aula - Hard-  Aula 02 - Burocracia.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 02 - Burocracia.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 02/Slides - Hard - Aula 02 - Burocracia.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 03 - Beabá do JavaScript.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 03/Roteiro de aula - Hard - Aula 03 - Beabá do JavaScript.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 03 - BeaBá do Javascript.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 03/Slides - Hard - Aula 03 - BeaBá do Javascript.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 04 - Luz, Câmera, React!.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 04/Roteiro de aula - Hard - Aula 04 - Luz, Câmera, React!.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 04 - Luz, Câmera, React!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 04/Slides - Hard - Aula 04 - Luz, Câmera, React!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 05 - Ancorados.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 05/Roteiro de aula - Hard - Aula 05 - Ancorados.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 05 - Ancorados.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 05/Slides - Hard - Aula 05 - Ancorados.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 06 - Decorando o espaço.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 06/Roteiro de aula - Hard - Aula 06 - Decorando o espaço.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 06 - Decorando o espaço.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 06/Slides - Hard - Aula 06 - Decorando o espaço.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 07 - Navegando entre os componentes.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 07/Roteiro de aula - Hard - Aula 07 - Navegando entre os componentes.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 07 - Navegando entre os componentes.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 07/Slides - Hard - Aula 07 - Navegando entre os componentes.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Na fotossíntese.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 08/Roteiro de aula - Hard - Aula 08 - Na fotossíntese.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 08 - Na fotossíntese.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 08/Slides - Hard - Aula 08 - Na fotossíntese.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 09 - Rebobinando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 09/Roteiro de aula - Hard - Aula 09 - Rebobinando.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 09 - Rebobinando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 09/Slides - Hard - Aula 09 - Rebobinando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 10",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 10 - No Palco.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 10/Roteiro de aula - Hard - Aula 10 - No Palco.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 11",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 11 - Revisando a base.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 11/Roteiro de aula - Hard - Aula 11 - Revisando a base.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 11  - Revisando a base.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 11/Slides - Hard - Aula 11  - Revisando a base.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 12",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 12 - Re-visando_.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 12/Roteiro de aula - Hard - Aula 12 - Re-visando_.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 12  - Re-visitando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 12/Slides - Hard - Aula 12  - Re-visitando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 13",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 13 - DOMinando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 13/Roteiro de aula - Hard - Aula 13 - DOMinando.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 13 - DOMinando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 13/Slides - Hard - Aula 13 - DOMinando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 14",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 14 - MODELando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 14/Roteiro de aula - Hard - Aula 14 - MODELando.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 14 - MODELando.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 14/Slides - Hard - Aula 14 - MODELando.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 15",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 15 - REACTions.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 15/Roteiro de aula - Hard - Aula 15 - REACTions.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 15 - REACTions.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas HARD/Aula - 15/Slides - Hard - Aula 15 - REACTions.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Aulas SOFT",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 01 - 1,2,3, go!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 01/Roteiro de aula - Soft - Aula 01 - 1,2,3, go!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 01 - 1,2,3, go!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 01/Slides - Soft - Aula 01 - 1,2,3, go!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 02 - Vamos falar de negócios!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 02/Roteiro de aula - Soft - Aula 02 - Vamos falar de negócios!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 02 - Vamos falar de negócios!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 02/Slides - Soft - Aula 02 - Vamos falar de negócios!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 03 - Contra fatos não há argumentos!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 03/Roteiro de aula - Soft - Aula 03 - Contra fatos não há argumentos!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 03 - Contra fatos não há argumentos.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 03/Slides - Soft - Aula 03 - Contra fatos não há argumentos.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 04 - Criatividade é conectar ideais!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 04/Roteiro de aula - Soft - Aula 04 - Criatividade é conectar ideais!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 04 - Criatividade é conectar ideias!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 04/Slides - Soft - Aula 04 - Criatividade é conectar ideias!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 05 - Tirando o projeto do papel!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 05/Roteiro de aula - Soft - Aula 05 - Tirando o projeto do papel!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 05 - Tirando o projeto do papel!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 05/Slides - Soft - Aula 05 - Tirando o projeto do papel!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 06 - Pule da caixa!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 06/Roteiro de aula - Soft - Aula 06 - Pule da caixa!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 06 - Pule da caixa!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 06/Slides - Soft - Aula 06 - Pule da caixa!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 07 - Construindo o meu futuro!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 07/Roteiro de aula - Soft - Aula 07 - Construindo o meu futuro!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 07 - Construindo o meu futuro!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 03 - React/Slides/Aulas SOFT/Aula - 07/Slides - Soft - Aula 07 - Construindo o meu futuro!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Módulo 04 - Banco de dados",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 - Boas-vindas módulo 4.pdf",
+        "isDir": false,
+        "path": "Módulo 04 - Banco de dados/1 - Boas-vindas módulo 4.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Proposta Projeto Individual.pdf",
+        "isDir": false,
+        "path": "Módulo 04 - Banco de dados/2 - Proposta Projeto Individual.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "3 - Proposta Projeto em Grupo.pdf",
+        "isDir": false,
+        "path": "Módulo 04 - Banco de dados/3 - Proposta Projeto em Grupo.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "E-books",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Banco de dados NOSQL - Biblioteca.pdf",
+            "isDir": false,
+            "path": "Módulo 04 - Banco de dados/E-books/Banco de dados NOSQL - Biblioteca.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Slides",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Aulas HARD",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 01 - Guarda no banco.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 01/Roteiro de aula - Hard - Aula 01 - Guarda no banco.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 01 - Guarda no banco.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 01/Slides - Hard - Aula 01 - Guarda no banco.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 02 - Abrindo portas.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 02/Roteiro de aula - Hard - Aula 02 - Abrindo portas.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 02 - Abrindo portas.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 02/Slides - Hard - Aula 02 - Abrindo portas.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 03 - E nasceu!.docx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 03/Roteiro de aula - Hard - Aula 03 - E nasceu!.docx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 03 - E nasceu!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 03/Slides - Hard - Aula 03 - E nasceu!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 04 - Ó o pesado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 04/Roteiro de aula - Hard - Aula 04 - Ó o pesado.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 04 - Ó o pesado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 04/Slides - Hard - Aula 04 - Ó o pesado.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 05 - Atualiza ai.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 05/Roteiro de aula - Hard - Aula 05 - Atualiza ai.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 05 - Atualiza ai!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 05/Slides - Hard - Aula 05 - Atualiza ai!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 06 - Ih, pra onde foi.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 06/Roteiro de aula - Hard - Aula 06 - Ih, pra onde foi.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 06 - Ih, pra onde foi.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 06/Slides - Hard - Aula 06 - Ih, pra onde foi.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 07 - Suas consultas.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 07/Roteiro de aula - Hard - Aula 07 - Suas consultas.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 07 - Suas consultas.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 07/Slides - Hard - Aula 07 - Suas consultas.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Mais informações.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 08/Roteiro de aula - Hard - Aula 08 - Mais informações.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 08 - Mais informações.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 08/Slides - Hard - Aula 08 - Mais informações.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 09 - Tudo junto e misturado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 09/Roteiro de aula - Hard - Aula 09 - Tudo junto e misturado.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 09 - Tudo junto e misturado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Aula - 09/Slides - Hard - Aula 09 - Tudo junto e misturado.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Roteiro de aula - Hard - Aula 10 - No Palco.pdf",
+                "isDir": false,
+                "path": "Módulo 04 - Banco de dados/Slides/Aulas HARD/Roteiro de aula - Hard - Aula 10 - No Palco.pdf",
+                "ext": ".pdf"
+              }
+            ]
+          },
+          {
+            "name": "Aulas SOFT",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 01 - Novamente juntos!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 01/Roteiro de aula - Soft - Aula 01 - Novamente juntos!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 01 - Soft - Novamente juntos!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 01/Slides - Soft - Aula 01 - Soft - Novamente juntos!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 02 - Quem é você quando ninguém vê.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 02/Roteiro de aula - Soft - Aula 02 - Quem é você quando ninguém vê.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 02 - Quem é você quando ninguém vê.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 02/Slides - Soft - Aula 02 - Quem é você quando ninguém vê.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 03 - Quem não se comunica se complica!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 03/Roteiro de aula - Soft - Aula 03 - Quem não se comunica se complica!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 03 - Quem não se comunica se complica!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 03/Slides - Soft - Aula 03 - Quem não se comunica se complica!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 04 - Se liga na fala!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 04/Roteiro de aula - Soft - Aula 04 - Se liga na fala!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 04 - Se liga na fala!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 04/Slides - Soft - Aula 04 - Se liga na fala!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 05 - Em constante aprimoramento!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 05/Roteiro de aula - Soft - Aula 05 - Em constante aprimoramento!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 05 - Em constante aprimoramento!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 05/Slides - Soft - Aula 05 - Em constante aprimoramento!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 06 - Eterno aprendizado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 06/Roteiro de aula - Soft - Aula 06 - Eterno aprendizado.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 06 - Eterno Aprendizado.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 06/Slides - Soft - Aula 06 - Eterno Aprendizado.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 07 - Roda mundo, roda gigante, roda da vida do meu coração!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 07/Roteiro de aula - Soft - Aula 07 - Roda mundo, roda gigante, roda da vida do meu coração!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 07 - Roda mundo, roda gigante, roda da vida do meu coração!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 07/Slides - Soft - Aula 07 - Roda mundo, roda gigante, roda da vida do meu coração!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 08 - Pode Desenvolver Isso aí!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 08/Roteiro de aula - Soft - Aula 08 - Pode Desenvolver Isso aí!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 08 - Pode Desenvolver Isso aí! .pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 08/Slides - Soft - Aula 08 - Pode Desenvolver Isso aí! .pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Soft - Aula 09 - #TBT.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 09/Roteiro de aula - Soft - Aula 09 - #TBT.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Soft - Aula 09 - #TBT.pdf",
+                    "isDir": false,
+                    "path": "Módulo 04 - Banco de dados/Slides/Aulas SOFT/Aula - 09/Slides - Soft - Aula 09 - #TBT.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Módulo 05 - Tecnologias server side back end",
+    "isDir": true,
+    "children": [
+      {
+        "name": "1 -Boas-vindas módulo 5.pdf",
+        "isDir": false,
+        "path": "Módulo 05 - Tecnologias server side back end/1 -Boas-vindas módulo 5.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "2 - Proposta Projeto Individual.pdf",
+        "isDir": false,
+        "path": "Módulo 05 - Tecnologias server side back end/2 - Proposta Projeto Individual.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "3 - Proposta Projeto em Grupo.pdf",
+        "isDir": false,
+        "path": "Módulo 05 - Tecnologias server side back end/3 - Proposta Projeto em Grupo.pdf",
+        "ext": ".pdf"
+      },
+      {
+        "name": "E-books",
+        "isDir": true,
+        "children": [
+          {
+            "name": "CRUD - Operando!-combinado.pdf",
+            "isDir": false,
+            "path": "Módulo 05 - Tecnologias server side back end/E-books/CRUD - Operando!-combinado.pdf",
+            "ext": ".pdf"
+          },
+          {
+            "name": "NODE + REST API - Servi-dor.pdf",
+            "isDir": false,
+            "path": "Módulo 05 - Tecnologias server side back end/E-books/NODE + REST API - Servi-dor.pdf",
+            "ext": ".pdf"
+          }
+        ]
+      },
+      {
+        "name": "Slides",
+        "isDir": true,
+        "children": [
+          {
+            "name": "Aulas HARD",
+            "isDir": true,
+            "children": [
+              {
+                "name": "Aula - 01",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 01 - Biblioteca.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 01/Roteiro de aula - Hard - Aula 01 - Biblioteca.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 01 - Biblioteca.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 01/Slides - Hard - Aula 01 - Biblioteca.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 02",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 02 - Cafezinho Express.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 02/Roteiro de aula - Hard - Aula 02 - Cafezinho Express.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 02 - Cafézinho express.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 02/Slides - Hard - Aula 02 - Cafézinho express.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 03",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 03 - Rotas e caminhos.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 03/Roteiro de aula - Hard - Aula 03 - Rotas e caminhos.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 03 - Rotas e caminhos.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 03/Slides - Hard - Aula 03 - Rotas e caminhos.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 04",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 04 - Sente a responsa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 04/Roteiro de aula - Hard - Aula 04 - Sente a responsa.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 04 - Sente a responsa.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 04/Slides - Hard - Aula 04 - Sente a responsa.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 05",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 05 - Olho no lance.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 05/Roteiro de aula - Hard - Aula 05 - Olho no lance.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 05 - Olho no lance.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 05/Slides - Hard - Aula 05 - Olho no lance.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 06",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 06 - Meiuca.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 06/Roteiro de aula - Hard - Aula 06 - Meiuca.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 06 - Meiuca.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 06/Slides - Hard - Aula 06 - Meiuca.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 07",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 07- Um banco.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 07/Roteiro de aula - Hard - Aula 07- Um banco.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 07 - Um banco.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 07/Slides - Hard - Aula 07 - Um banco.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 08",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 08 - Por que.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 08/Roteiro de aula - Hard - Aula 08 - Por que.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 08 - Por que.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 08/Slides - Hard - Aula 08 - Por que.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 09",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 09 - F5.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 09/Roteiro de aula - Hard - Aula 09 - F5.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 09 - F5.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 09/Slides - Hard - Aula 09 - F5.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 10",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 10 - Pega leve!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 10/Roteiro de aula - Hard - Aula 10 - Pega leve!.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 10 - Pega leve!.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 10/Slides - Hard - Aula 10 - Pega leve!.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 11",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 11- Tarefas para todos.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 11/Roteiro de aula - Hard - Aula 11- Tarefas para todos.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 11 - Tarefas para todos.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 11/Slides - Hard - Aula 11 - Tarefas para todos.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 12",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 12 - Roda a roda.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 12/Roteiro de aula - Hard - Aula 12 - Roda a roda.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 12 - Roda a roda.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 12/Slides - Hard - Aula 12 - Roda a roda.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Aula - 13",
+                "isDir": true,
+                "children": [
+                  {
+                    "name": "Roteiro de aula - Hard - Aula 13 -  E esse o planodocx.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 13/Roteiro de aula - Hard - Aula 13 -  E esse o planodocx.pdf",
+                    "ext": ".pdf"
+                  },
+                  {
+                    "name": "Slides - Hard - Aula 13 - E esse o plano.pdf",
+                    "isDir": false,
+                    "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Aula - 13/Slides - Hard - Aula 13 - E esse o plano.pdf",
+                    "ext": ".pdf"
+                  }
+                ]
+              },
+              {
+                "name": "Roteiro de aula - Hard - Aula 14 - No palco.pdf",
+                "isDir": false,
+                "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Roteiro de aula - Hard - Aula 14 - No palco.pdf",
+                "ext": ".pdf"
+              },
+              {
+                "name": "Slides - Hard - Aula 14 - No palco.pdf",
+                "isDir": false,
+                "path": "Módulo 05 - Tecnologias server side back end/Slides/Aulas HARD/Slides - Hard - Aula 14 - No palco.pdf",
+                "ext": ".pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
